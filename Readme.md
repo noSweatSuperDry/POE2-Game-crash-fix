@@ -17,4 +17,4 @@ This fix is for those, who installed POE 2 from POE 2 installed
 
 
 Key:
-Freezing issue, Pc freezing, PC frozen , POE 2, Path of exile 2, Pc get stuck, computer frozen, system does not respont.
+Freezing issue, Pc freezing, PC frozen , POE 2, Path of exile 2, Pc get stuck, computer frozen, system does not respont.poe 2 freeze pc when chrome is open
